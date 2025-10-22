@@ -48,4 +48,4 @@ npx expo start
 
 **Andrew Burbank**
 📍 UCLA | Computer Science & Engineering
-📧 [andrewburbank@ucla.edu](mailto:your.email@example.com)
+📧 [andrewburbank@ucla.edu](mailto:andrewburbank@ucla.edu)

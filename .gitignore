@@ -1,0 +1,13 @@
+*.json
+*.plist
+
+constants.js
+firebaseConfig.js
+
+android/
+node_modules/
+.vscode/
+.expo/
+.VSCodeCounter/
+credentials/
+ios/
